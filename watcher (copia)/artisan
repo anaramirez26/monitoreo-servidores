@@ -1,6 +1,0 @@
-<?php
-// artisan (dummy placeholder for entrypoint)
-
-#!/usr/bin/env php
-<?php
-// ... Laravel artisan entrypoint ...
