@@ -1,0 +1,5 @@
+{
+    "name": "watcher",
+    "description": "Proyecto básico de Laravel para Docker Compose.",
+    "require": {}
+}
